@@ -1,29 +1,49 @@
 #mango {
-    align-items: center;
-    background-color: azure;
-  }
-  .sidebar {
-    width: 30%;
-    float: right;
-    background-color: lightgreen;
-    margin-top:4%;
-    padding: 2%;
-  }
-  .column {
-    width: 400px;
-    float: left;
-    font-style: italic
-  }
-  body {
-      background-color: azure;
-      margin-left: 5%;
-  }
-  h1 {
-      text-align: center;
-      font-size: 300%;
-      color: green;
-  }
+  align-items: center;
+  background-color: azure;
+}
 
-  .main {
-      width: 1200px;
-  }
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: lightgreen;
+  margin-top: 4%;
+  padding: 2%;
+}
+
+.column {
+  width: 400px;
+  float: left;
+  font-style: italic;
+}
+
+body {
+  background-color: azure;
+  margin-left: 5%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 300%;
+  color: green;
+}
+
+.main {
+  width: 1200px;
+}
+.image5 {
+  margin-top: 5%;
+  margin-left: 45%;
+}
+.call {
+  float: right;
+  margin-bottom: 5%;
+}
+
+footer {
+  font-size: 15px;
+}
+
+.copy {
+  align: middle;
+}
